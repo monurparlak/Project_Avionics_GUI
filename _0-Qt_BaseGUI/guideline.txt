@@ -1,6 +1,5 @@
 ${PROJECT_FILE}$> qmake BaseGUI.pro
 ${PROJECT_FILE}$> mingw32-make
-
 --------------
 ${PROJECT_FILE}$\release> del *.o
 ${PROJECT_FILE}$> mingw32-make install
